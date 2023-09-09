@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 2090e1cefefc5804984e6c06bc93aad6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f952dfc98d446245ab3437879314e02
+      internalID: -714355058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f4c6b1b841864f9dd6ebfabf07241
+      internalID: -230559179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6cfaec7d67314889562f928369ebf
+      internalID: -1009417486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7d52caeb1e5d40b1f342b2ac4637b
+      internalID: -1825084698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf094fec79d2d94eac8cdb69496e9d2
+      internalID: -1784035158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f30e057e9ca643afbfe9c4cc05474
+      internalID: 1497552369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9495e4fa0251de40938493fb947edb2
+      internalID: 86175744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1437589c44184bb1c8cb9de3b326d
+      internalID: 1223487561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b4ce64f34e0443ab30c33a251e81e
+      internalID: 1763005111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a79199b72fdb4fabbd8045f09e98c
+      internalID: 1715789855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10648b9fb9b50f6408d6afafd8938b7e
+      internalID: -229720693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f39077928ff047a224c0b0c69dfc6
+      internalID: -792404059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07e0d4c102d8a48a3542af7906cbd5
+      internalID: 1676382284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1bb236a0ac7d74da19a3dd7edb86bf
+      internalID: -1785473633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72e3facef7dc54caa1ef1181633019
+      internalID: 1991822149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302bf741b6339ad4bbbdbdd7bf9328c3
+      internalID: 1236215232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573fe12fdf777148a91d761cddb8b01
+      internalID: -1542514696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68516da4c8ac11a439b3706a14baf79e
+      internalID: 1063970292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ede57a0e23ef54db6c3e308cd8cae9
+      internalID: -1925191011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343c0a8a5360a44290532fda4399904
+      internalID: 1003563288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78878c489c80e74da8fe11c0eeab5dc
+      internalID: 393408175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09050f0b1b327b245b73eb9e61712ad3
+      internalID: 297426030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adf36f8bd1d55469fee79850be5dc6
+      internalID: -66838307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c0b19463d5a94f851ac80a28ead05
+      internalID: -1551084537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39574295218d6499de29fddfb6f1e3
+      internalID: -1642193351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a9616a7e2b1f469844973564e5082
+      internalID: -1763123957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5dab166048e1046b66be7708b2bb38
+      internalID: 1790098127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f04f07b9fa765488259525d0b5397a
+      internalID: 1284746817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88963784ddb8a547b36b7b22f8f7f01
+      internalID: -2065952646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720fb91cf257bc48a88f3f13ace40c6
+      internalID: -1374671643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d3a35ee1bbb241a37a1a61cfc1ac0
+      internalID: 1617324586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cff5849298a4649a24d6dbdb77475d
+      internalID: -1123021038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e227267d67276419bcde38e094c85b
+      internalID: -957997210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56150f8bc6e4d49b6836e4f4e7874f
+      internalID: 1006065368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab96efbe14ceb4ca8248ca90db655c
+      internalID: -265763465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a75d736fcedf4bbab9e809378b86d
+      internalID: 853099684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24130088f760e43b2d10b677b0d81f
+      internalID: 1286750717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f5ae7349c0614448931d2e93028e68
+      internalID: 1654913140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305dffac9081764a8db609e896476fa
+      internalID: 1857904360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260f083c2fc8a6646af50bea25dc7f28
+      internalID: -1296122332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e1cc4f97b79044b2666b498e91300
+      internalID: -2134137529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f0f4bda41572438daa0e410b25bc8
+      internalID: -392055691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_book_shelf-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446cc60ea4ea50b41a0f31544105cb3b
+      internalID: 1286746703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      final_book_shelf-sheet_0: -1913163591
+      final_book_shelf-sheet_1: -714355058
+      final_book_shelf-sheet_10: 1223487561
+      final_book_shelf-sheet_11: 1763005111
+      final_book_shelf-sheet_12: 1715789855
+      final_book_shelf-sheet_13: -229720693
+      final_book_shelf-sheet_14: -792404059
+      final_book_shelf-sheet_15: -517743963
+      final_book_shelf-sheet_16: -1481529460
+      final_book_shelf-sheet_17: 1676382284
+      final_book_shelf-sheet_18: -1785473633
+      final_book_shelf-sheet_19: 1991822149
+      final_book_shelf-sheet_2: -230559179
+      final_book_shelf-sheet_20: 1236215232
+      final_book_shelf-sheet_21: -1542514696
+      final_book_shelf-sheet_22: -536585393
+      final_book_shelf-sheet_23: 1063970292
+      final_book_shelf-sheet_24: -168435391
+      final_book_shelf-sheet_25: -1925191011
+      final_book_shelf-sheet_26: 1003563288
+      final_book_shelf-sheet_27: 393408175
+      final_book_shelf-sheet_28: 297426030
+      final_book_shelf-sheet_29: -66838307
+      final_book_shelf-sheet_3: -1009417486
+      final_book_shelf-sheet_30: -1551084537
+      final_book_shelf-sheet_31: -1642193351
+      final_book_shelf-sheet_32: -1763123957
+      final_book_shelf-sheet_33: 2087614946
+      final_book_shelf-sheet_34: 1790098127
+      final_book_shelf-sheet_35: 1284746817
+      final_book_shelf-sheet_36: -2065952646
+      final_book_shelf-sheet_37: -1374671643
+      final_book_shelf-sheet_38: 1617324586
+      final_book_shelf-sheet_39: -2024226635
+      final_book_shelf-sheet_4: -1825084698
+      final_book_shelf-sheet_40: 487492044
+      final_book_shelf-sheet_41: -1642232633
+      final_book_shelf-sheet_42: -1123021038
+      final_book_shelf-sheet_43: -957997210
+      final_book_shelf-sheet_44: 1006065368
+      final_book_shelf-sheet_45: -265763465
+      final_book_shelf-sheet_46: 853099684
+      final_book_shelf-sheet_47: -944462745
+      final_book_shelf-sheet_48: -599182021
+      final_book_shelf-sheet_49: -1585588664
+      final_book_shelf-sheet_5: 715593323
+      final_book_shelf-sheet_50: 622564467
+      final_book_shelf-sheet_51: 1286750717
+      final_book_shelf-sheet_52: 1654913140
+      final_book_shelf-sheet_53: 1857904360
+      final_book_shelf-sheet_54: -1296122332
+      final_book_shelf-sheet_55: -2134137529
+      final_book_shelf-sheet_56: 1287178268
+      final_book_shelf-sheet_57: -260331486
+      final_book_shelf-sheet_58: -1210941110
+      final_book_shelf-sheet_59: 2099766824
+      final_book_shelf-sheet_6: -299273670
+      final_book_shelf-sheet_60: -392055691
+      final_book_shelf-sheet_61: 1286746703
+      final_book_shelf-sheet_7: -1784035158
+      final_book_shelf-sheet_8: 1497552369
+      final_book_shelf-sheet_9: 86175744
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: fe0ad3d669900404880bd7abf9a92aa6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chir closet etc_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1c193cebaf784cad9d870f972495b
+      internalID: -1390005544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4465404505dc8d641978855298549cc9
+      internalID: 2147341448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b5dbe06b168c4d82ad2d6d39c66be
+      internalID: -476142021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7dc1f14b1dff479ba703e8b1e2cd4
+      internalID: -1813686749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb45a56e6b5f5a4580b1559b5edb835
+      internalID: -359209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49bf39eba8c034292f77b0cd4020a8
+      internalID: -460336371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3193c74d58f6440a01b8fe6f96bd09
+      internalID: 446451532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ecf097d5142564fa07d4af44629404
+      internalID: 1290173736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_74
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2c20ccd2a7774b919a960a2da1ad0
+      internalID: -1303765366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928470b981d2584f8fa45f506ee9071
+      internalID: 270330894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f21e4dd30062a469bf847811493d6c
+      internalID: 1822038472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chir closet etc_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4d161ac378cd4ea217610b7576f40
+      internalID: 1059660388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chir closet etc_0: -996749521
+      chir closet etc_1: 545868403
+      chir closet etc_10: 917633801
+      chir closet etc_11: 434688697
+      chir closet etc_12: 503642172
+      chir closet etc_13: 234722054
+      chir closet etc_14: 1763169940
+      chir closet etc_15: 585168178
+      chir closet etc_16: 901094288
+      chir closet etc_17: 1437642561
+      chir closet etc_18: 1304596489
+      chir closet etc_19: 790128867
+      chir closet etc_2: 451142509
+      chir closet etc_20: -1423651025
+      chir closet etc_21: 1434629291
+      chir closet etc_22: -156609772
+      chir closet etc_23: 1867656029
+      chir closet etc_24: -1088464911
+      chir closet etc_25: 1065929401
+      chir closet etc_26: 1134452881
+      chir closet etc_27: 1452035584
+      chir closet etc_28: 312326599
+      chir closet etc_29: -1053506185
+      chir closet etc_3: -1941306999
+      chir closet etc_30: -787849715
+      chir closet etc_31: -409357708
+      chir closet etc_32: -839367273
+      chir closet etc_33: 1528219964
+      chir closet etc_34: 1407119714
+      chir closet etc_35: -612112530
+      chir closet etc_36: -26125739
+      chir closet etc_37: -498249672
+      chir closet etc_38: 2021681679
+      chir closet etc_39: -1430199990
+      chir closet etc_4: 749520128
+      chir closet etc_40: -111339214
+      chir closet etc_41: 81829541
+      chir closet etc_42: 1935345438
+      chir closet etc_43: -744567206
+      chir closet etc_44: 1138713102
+      chir closet etc_45: -1394865107
+      chir closet etc_46: 1385144675
+      chir closet etc_47: -1251549127
+      chir closet etc_48: 1400880628
+      chir closet etc_49: 1072473483
+      chir closet etc_5: -1278948460
+      chir closet etc_50: -571707546
+      chir closet etc_51: 1075781192
+      chir closet etc_52: 1180599842
+      chir closet etc_53: -530223945
+      chir closet etc_54: 93220661
+      chir closet etc_55: -1124085496
+      chir closet etc_56: -2056714218
+      chir closet etc_57: -1816842845
+      chir closet etc_58: 235066581
+      chir closet etc_59: -1390005544
+      chir closet etc_6: -1103057310
+      chir closet etc_60: 2147341448
+      chir closet etc_61: -476142021
+      chir closet etc_62: 1300382472
+      chir closet etc_63: -138062095
+      chir closet etc_64: -1520204176
+      chir closet etc_65: -398374272
+      chir closet etc_66: 1956479625
+      chir closet etc_67: 13099250
+      chir closet etc_68: -1813686749
+      chir closet etc_69: -359209394
+      chir closet etc_7: -347565797
+      chir closet etc_70: -460336371
+      chir closet etc_71: 874159225
+      chir closet etc_72: 446451532
+      chir closet etc_73: 1290173736
+      chir closet etc_74: -1303765366
+      chir closet etc_75: -1974917782
+      chir closet etc_76: -1384005915
+      chir closet etc_77: -1590783912
+      chir closet etc_78: 1039385338
+      chir closet etc_79: -821380025
+      chir closet etc_8: -406411540
+      chir closet etc_80: 1762482372
+      chir closet etc_81: 270330894
+      chir closet etc_82: 1822038472
+      chir closet etc_83: 1059660388
+      chir closet etc_84: -1641886470
+      chir closet etc_85: 1941248775
+      chir closet etc_86: 964475316
+      chir closet etc_87: -281144168
+      chir closet etc_88: 1130238159
+      chir closet etc_89: 677201307
+      chir closet etc_9: -861263556
+      chir closet etc_90: 891999005
+      chir closet etc_91: 162617325
+      chir closet etc_92: -1386538857
+      chir closet etc_93: 40571399
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
